@@ -1,1 +1,1 @@
-This is the code to perform moophology simulations in R.Takaki and D.Thirumalai, PNAS. 
+This code is to perform the simulations in R.Takaki and D.Thirumalai pubslshed in PNAS. 
